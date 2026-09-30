@@ -1,0 +1,13 @@
+{
+  "name": "HandCaption — Handwriting Caption Studio",
+  "short_name": "HandCaption",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#eaf1ed",
+  "theme_color": "#7b5fe5",
+  "description": "Create handwriting packs and add handwritten captions to photos and videos locally.",
+  "icons": [
+    {"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
